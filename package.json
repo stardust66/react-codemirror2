@@ -1,6 +1,6 @@
 {
   "name": "react17-codemirror2",
-  "version": "7.2.2",
+  "version": "7.2.3",
   "description": "a tiny react codemirror component wrapper",
   "main": "index.js",
   "typings": "index.d.ts",
@@ -35,14 +35,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scniro/react-codemirror2.git"
+    "url": "git+https://github.com/stardust66/react-codemirror2.git"
   },
   "author": "scniro",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/scniro/react-codemirror2/issues"
-  },
-  "homepage": "https://github.com/scniro/react-codemirror2#readme",
+  "homepage": "https://github.com/stardust66/react-codemirror2",
   "keywords": [
     "react",
     "react-codemirror",

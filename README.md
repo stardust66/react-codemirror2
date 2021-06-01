@@ -5,6 +5,10 @@
 [![Downloads](https://img.shields.io/npm/dm/react-codemirror2.svg?style=flat-square)](https://www.npmjs.com/package/react-codemirror2)
 [![NPM Version](https://img.shields.io/npm/v/react-codemirror2.svg?style=flat-square)](https://www.npmjs.com/package/react-codemirror2)
 
+## Note
+
+This widens the peer dependency version range on React to support React 17.
+
 ### react-codemirror2
 
 demo @ [scniro.github.io/react-codemirror2](https://scniro.github.io/react-codemirror2/)
